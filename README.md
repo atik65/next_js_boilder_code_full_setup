@@ -20,6 +20,28 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## List of dependencies
+
+"@radix-ui/react-dialog": "^1.1.1",
+"@tanstack/react-query": "^5.50.1",
+"@tanstack/react-query-devtools": "4",
+"axios": "^1.7.2",
+"class-variance-authority": "^0.7.0",
+"clsx": "^2.1.1",
+"formik": "^2.4.6",
+"lucide-react": "^0.400.0",
+"next": "14.2.4",
+"next-auth": "^4.24.7",
+"next-nprogress-bar": "^2.3.12",
+"notistack": "^3.0.1",
+"react": "^18",
+"react-dom": "^18",
+"react-icons": "^5.2.1",
+"swiper": "^11.1.4",
+"tailwind-merge": "^2.3.0",
+"tailwindcss-animate": "^1.0.7",
+"yup": "^1.4.0"
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
